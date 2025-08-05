@@ -1,0 +1,307 @@
+Image,PID,Description,Status,Threads,CPU,Average CPU
+Secure System,140,,Suspended,-,0,0
+SearchHost.exe,9272,SearchHost,Suspended,68,0,0
+LockApp.exe,12784,LockApp.exe,Suspended,16,0,0
+AcrobatNotificationClient.exe,18096,AcrobatNotificationClient,Suspended,13,0,0
+AdobeNotificationClient.exe,9964,Adobe Notification Client,Suspended,12,0,0
+ShellExperienceHost.exe,12220,Windows Shell Experience Host,Suspended,18,0,0
+SystemSettings.exe,6976,Settings,Suspended,47,0,0
+Memory Compression,4076,,Running,46,0,0.25
+Grammarly.Desktop.exe,19180,Grammarly,Running,48,0,0.15
+perfmon.exe,24612,Resource and Performance Monitor,Running,17,0,0.14
+dwm.exe,1696,Desktop Window Manager,Running,23,0,0.14
+svchost.exe (netprofm -p),2372,Host Process for Windows Services,Running,15,0,0.14
+SmartByteTelemetry.exe,9876,SmartByteTelemetry,Running,8,0,0.14
+EXCEL.EXE,12132,Microsoft Excel,Running,64,0,0.11
+System Interrupts,-,Deferred Procedure Calls and Interrupt Service Routines,Running,-,0,0.1
+RAPS.exe,5020,RivetAPS,Running,10,0,0.09
+System,4,NT Kernel & System,Running,342,0,0.05
+MsMpEng.exe,6728,,Running,66,0,0.05
+svchost.exe (LocalSystemNetworkRestricted -p),3952,Host Process for Windows Services,Running,4,0,0.04
+Dropbox.exe,19492,Dropbox,Running,162,0,0.03
+SmartByteNetworkService.exe,6552,SmartByte Network Service,Running,17,0,0.03
+Teams.exe,15676,Microsoft Teams,Running,20,0,0.03
+svchost.exe (RPCSS -p),1584,Host Process for Windows Services,Running,10,0,0.02
+explorer.exe,10228,Windows Explorer,Running,69,0,0.02
+chrome.exe,13324,Google Chrome,Running,43,0,0.02
+svchost.exe (NetworkService -p),3048,Host Process for Windows Services,Running,11,0,0.02
+WavesSvc64.exe,13512,Waves MaxxAudio Service Application,Running,21,0,0.02
+chrome.exe,13268,Google Chrome,Running,24,0,0.01
+WUDFHost.exe,1528,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,23,0,0.01
+ipf_helper.exe,8012,Intel(R) Innovation Platform Framework Utility Application,Running,4,0,0.01
+svchost.exe (LocalSystemNetworkRestricted -p),4916,Host Process for Windows Services,Running,15,0,0.01
+DellSupportAssistRemedationService.exe,14800,DCFWinService,Running,27,0,0.01
+OUTLOOK.EXE,7300,Microsoft Outlook,Running,89,0,0.01
+WUDFHost.exe,1804,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,11,0,0.01
+Adobe Desktop Service.exe,6640,Creative Cloud Core Service,Running,47,0,0.01
+AdobeIPCBroker.exe,5976,Creative Cloud Interprocess Service,Running,26,0,0.01
+SearchProtocolHost.exe,12700,Microsoft Windows Search Protocol Host,Running,18,0,0.01
+csrss.exe,1132,,Running,14,0,0
+MfeAVSvc.exe,15688,McAfee Cloud AV,Running,72,0,0
+chrome.exe,9456,Google Chrome,Running,19,0,0
+CoreSync.exe,21520,Adobe Content Synchronizer,Running,67,0,0
+chrome.exe,4568,Google Chrome,Running,23,0,0
+WTabletServiceISD.exe,4824,Tablet Service,Running,10,0,0
+mysqld.exe,7116,mysqld,Running,39,0,0
+AdobeCollabSync.exe,17928,Acrobat Collaboration Synchronizer 23.6,Running,19,0,0
+mfemms.exe,6312,,Running,25,0,0
+svchost.exe (LocalServiceNoNetworkFirewall -p),4272,Host Process for Windows Services,Running,14,0,0
+svchost.exe (appmodel -p),4024,Host Process for Windows Services,Running,4,0,0
+msedgewebview2.exe,5916,Microsoft Edge WebView2,Running,25,0,0
+fontdrvhost.exe,1444,Usermode Font Driver Host,Running,5,0,0
+ctfmon.exe,12564,CTF Loader,Running,14,0,0
+msedgewebview2.exe,10576,Microsoft Edge WebView2,Running,14,0,0
+msedgewebview2.exe,14716,Microsoft Edge WebView2,Running,46,0,0
+services.exe,1244,,Running,8,0,0
+WUDFHost.exe,1860,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,13,0,0
+Teams.exe,15560,Microsoft Teams,Running,45,0,0
+svchost.exe (LocalService -p),3764,Host Process for Windows Services,Running,8,0,0
+chrome.exe,24312,Google Chrome,Running,23,0,0
+Teams.exe,4452,Microsoft Teams,Running,21,0,0
+msedgewebview2.exe,20716,Microsoft Edge WebView2,Running,48,0,0
+node.exe,17732,Node.js JavaScript Runtime,Running,25,0,0
+csrss.exe,1032,,Running,12,0,0
+TextInputHost.exe,15388,TextInputHost,Running,32,0,0
+MMSSHOST.exe,7988,McAfee Management Service Host,Running,88,0,0
+Creative Cloud.exe,20256,Creative Cloud,Running,26,0,0
+svchost.exe (ClipboardSvcGroup -p),10856,Host Process for Windows Services,Running,10,0,0
+Dropbox.exe,22232,Dropbox,Running,14,0,0
+lsass.exe,1304,Local Security Authority Process,Running,7,0,0
+node.exe,4012,Node.js JavaScript Runtime,Running,24,0,0
+slack.exe,18824,Slack,Running,35,0,0
+Registry,172,,Running,4,0,0
+smss.exe,724,,Running,2,0,0
+wininit.exe,1124,,Running,2,0,0
+winlogon.exe,1224,Windows Logon Application,Running,3,0,0
+LsaIso.exe,1276,Credential Guard & VBS Key Isolation,Running,1,0,0
+svchost.exe (DcomLaunch -p),1416,Host Process for Windows Services,Running,13,0,0
+fontdrvhost.exe,1452,Usermode Font Driver Host,Running,5,0,0
+svchost.exe (DcomLaunch -p),1640,Host Process for Windows Services,Running,5,0,0
+WUDFHost.exe,1916,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,5,0,0
+WUDFHost.exe,1960,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,8,0,0
+svchost.exe (netsvcs -p),1684,Host Process for Windows Services,Running,3,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),1768,Host Process for Windows Services,Running,1,0,0
+svchost.exe (LocalServiceNoNetwork -p),1844,Host Process for Windows Services,Running,2,0,0
+svchost.exe (LocalService -p),1636,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalService -p),2224,Host Process for Windows Services,Running,3,0,0
+svchost.exe (LocalServiceNetworkRestricted),2232,Host Process for Windows Services,Running,2,0,0
+svchost.exe (LocalService -p),2240,Host Process for Windows Services,Running,8,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),2248,Host Process for Windows Services,Running,7,0,0
+svchost.exe (netsvcs -p),2360,Host Process for Windows Services,Running,5,0,0
+svchost.exe (UserProfileService -p),2444,Host Process for Windows Services,Running,3,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),2456,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),2464,Host Process for Windows Services,Running,1,0,0
+svchost.exe (netsvcs -p),2636,Host Process for Windows Services,Running,4,0,0
+IntelCpHDCPSvc.exe,2676,Intel HD Graphics Drivers for Windows(R),Running,3,0,0
+svchost.exe (LocalService -p),2692,Host Process for Windows Services,Running,1,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),2732,Host Process for Windows Services,Running,10,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),2844,Host Process for Windows Services,Running,5,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),2852,Host Process for Windows Services,Running,6,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),3028,Host Process for Windows Services,Running,9,0,0
+svchost.exe (LocalServiceAndNoImpersonation -p),1676,Host Process for Windows Services,Running,9,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),3156,Host Process for Windows Services,Running,3,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),3164,Host Process for Windows Services,Running,5,0,0
+svchost.exe (osprivacy -p),3228,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),3408,Host Process for Windows Services,Running,7,0,0
+dasHost.exe,3624,Device Association Framework Provider Host,Running,2,0,0
+svchost.exe (NetSvcs -p),3756,Host Process for Windows Services,Running,5,0,0
+WUDFHost.exe,3804,Windows Driver Foundation - User-mode Driver Framework Host Process,Running,6,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),3924,Host Process for Windows Services,Running,7,0,0
+svchost.exe (LocalService -p),3960,Host Process for Windows Services,Running,4,0,0
+svchost.exe (netsvcs -p),3968,Host Process for Windows Services,Running,3,0,0
+svchost.exe (netsvcs -p),3000,Host Process for Windows Services,Running,2,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),3824,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalServiceAndNoImpersonation -p),4216,Host Process for Windows Services,Running,7,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),4248,Host Process for Windows Services,Running,8,0,0
+WTabletServiceISD.exe,4360,Tablet Service,Running,1,0,0
+svchost.exe (netsvcs -p),4512,Host Process for Windows Services,Running,11,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),4728,Host Process for Windows Services,Running,3,0,0
+vpnagent.exe,4736,VPN Agent Service,Running,7,0,0
+svchost.exe (WebThreatDefense -p),4756,Host Process for Windows Services,Running,8,0,0
+sihost.exe,4976,Shell Infrastructure Host,Running,11,0,0
+WmiPrvSE.exe,5036,WMI Provider Host,Running,6,0,0
+svchost.exe (netsvcs -p),5084,Host Process for Windows Services,Running,3,0,0
+svchost.exe (BthAppGroup -p),5104,Host Process for Windows Services,Running,1,0,0
+svchost.exe (UnistackSvcGroup),5116,Host Process for Windows Services,Running,8,0,0
+svchost.exe (PenService),4104,Host Process for Windows Services,Running,3,0,0
+spoolsv.exe,5004,Spooler SubSystem App,Running,8,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),5148,Host Process for Windows Services,Running,2,0,0
+svchost.exe (UnistackSvcGroup),5248,Host Process for Windows Services,Running,5,0,0
+svchost.exe (netsvcs -p),5384,Host Process for Windows Services,Running,5,0,0
+DropboxUpdate.exe,5432,Dropbox Update,Running,3,0,0
+taskhostw.exe,5464,Host Process for Windows Tasks,Running,8,0,0
+wlanext.exe,5496,Windows Wireless LAN 802.11 Extensibility Framework,Running,2,0,0
+conhost.exe,5572,Console Window Host,Running,2,0,0
+svchost.exe (NetworkService -p),5680,Host Process for Windows Services,Running,5,0,0
+armsvc.exe,5788,Acrobat Update Service,Running,2,0,0
+AdobeUpdateService.exe,5860,Creative Cloud Update Service,Running,5,0,0
+svchost.exe (NetSvcs),5868,Host Process for Windows Services,Running,1,0,0
+svchost.exe (NetworkService -p),5928,Host Process for Windows Services,Running,5,0,0
+DbxSvc.exe,5940,Dropbox Service,Running,26,0,0
+OfficeClickToRun.exe,5948,Microsoft Office Click-to-Run (SxS),Running,19,0,0
+svchost.exe (utcsvc -p),6024,Host Process for Windows Services,Running,12,0,0
+svchost.exe (LocalServiceNoNetwork -p),6036,Host Process for Windows Services,Running,18,0,0
+OneApp.IGCC.WinService.exe,6072,Intel Graphics Command Center Service,Running,6,0,0
+svchost.exe (netsvcs -p),6088,Host Process for Windows Services,Running,4,0,0
+IntelAudioService.exe,6116,IntelAudioService,Running,7,0,0
+ipfsvc.exe,6128,Intel(R) Innovation Platform Framework Service Container,Running,8,0,0
+svchost.exe (NetSvcs -p),5576,Host Process for Windows Services,Running,5,0,0
+ipf_uf.exe,6248,Intel(R) Innovation Platform Framework Service,Running,3,0,0
+ModuleCoreService.exe,6320,McAfee Module Core Service,Running,32,0,0
+jhi_service.exe,6328,Intel(R) Dynamic Application Loader Host Interface,Running,2,0,0
+mysqld.exe,6336,mysqld,Running,3,0,0
+PEFService.exe,6376,McAfee PEF Service,Running,11,0,0
+RstMwService.exe,6412,Intel(R) Rapid Storage Technology Management Service,Running,9,0,0
+RtkAudUService64.exe,6436,Realtek HD Audio Universal Service,Running,16,0,0
+GoodixSessionService.exe,6504,SessionService,Running,2,0,0
+SmartByteAnalyticsService.exe,6540,SmartByte Analytics Service,Running,3,0,0
+sqlwriter.exe,6616,SQL Server VSS Writer - 64 Bit,Running,2,0,0
+svchost.exe (imgsvc),6668,Host Process for Windows Services,Running,4,0,0
+WavesAudioService.exe,6684,Waves Audio Service,Running,4,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),6692,Host Process for Windows Services,Running,3,0,0
+WavesSysSvc64.exe,6704,WavesSysSvc Service Application,Running,24,0,0
+svchost.exe (netsvcs -p),6760,Host Process for Windows Services,Running,7,0,0
+WMIRegistrationService.exe,6772,Intel(R) Management Engine WMI Provider Registration,Running,2,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),6852,Host Process for Windows Services,Running,2,0,0
+svchost.exe (netsvcs -p),6944,Host Process for Windows Services,Running,5,0,0
+conhost.exe,7124,Console Window Host,Running,4,0,0
+svchost.exe (netsvcs -p),7880,Host Process for Windows Services,Running,1,0,0
+WmiPrvSE.exe,7944,WMI Provider Host,Running,7,0,0
+RAPSService.exe,8004,Windows Service Wrapper,Running,6,0,0
+mfevtps.exe,6660,,Running,7,0,0
+AggregatorHost.exe,6840,Microsoft (R) Aggregator Host,Running,1,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),7496,Host Process for Windows Services,Running,2,0,0
+ProtectedModuleHost.exe,7112,,Running,20,0,0
+conhost.exe,2196,Console Window Host,Running,4,0,0
+ModuleCoreService.exe,9012,McAfee Module Core Service,Running,46,0,0
+conhost.exe,9060,Console Window Host,Running,2,0,0
+svchost.exe (LocalService -p),2336,Host Process for Windows Services,Running,9,0,0
+svchost.exe (netsvcs -p),10364,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalServiceNetworkRestricted),10452,Host Process for Windows Services,Running,7,0,0
+svchost.exe (NetworkServiceNetworkRestricted -p),10500,Host Process for Windows Services,Running,4,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),10764,Host Process for Windows Services,Running,1,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),10912,Host Process for Windows Services,Running,2,0,0
+StartMenuExperienceHost.exe,10792,Windows Start Experience Host,Running,11,0,0
+Widgets.exe,9652,Widgets,Running,14,0,0
+RuntimeBroker.exe,11072,Runtime Broker,Running,18,0,0
+RuntimeBroker.exe,10332,Runtime Broker,Running,2,0,0
+svchost.exe (UdkSvcGroup),9468,Host Process for Windows Services,Running,2,0,0
+RtkAudUService64.exe,11396,Realtek HD Audio Universal Service,Running,3,0,0
+dllhost.exe,11976,COM Surrogate,Running,10,0,0
+McCSPServiceHost.exe,11520,McAfee CSP Service Host,Running,11,0,0
+SearchIndexer.exe,12504,Microsoft Windows Search Indexer,Running,15,0,0
+TabTip.exe,12596,Touch Keyboard and Handwriting Panel,Running,7,0,0
+RuntimeBroker.exe,12912,Runtime Broker,Running,11,0,0
+svchost.exe (LocalService -p),13188,Host Process for Windows Services,Running,5,0,0
+ChsIME.exe,12968,Microsoft IME,Running,2,0,0
+smartscreen.exe,12380,Windows Defender SmartScreen,Running,6,0,0
+SecurityHealthSystray.exe,12344,Windows Security notification icon,Running,1,0,0
+SecurityHealthService.exe,11616,,Running,10,0,0
+RtkAudUService64.exe,13392,Realtek HD Audio Universal Service,Running,10,0,0
+PhoneExperienceHost.exe,13576,Microsoft Phone Link,Running,14,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),13664,Host Process for Windows Services,Running,3,0,0
+svchost.exe (netsvcs -p),14012,Host Process for Windows Services,Running,6,0,0
+unsecapp.exe,14304,Sink to receive asynchronous callbacks for WMI client application,Running,2,0,0
+svchost.exe (netsvcs -p),13672,Host Process for Windows Services,Running,4,0,0
+NisSrv.exe,14520,,Running,4,0,0
+WidgetService.exe,14560,WidgetService,Running,4,0,0
+RuntimeBroker.exe,14700,Runtime Broker,Running,1,0,0
+OneDrive.exe,14952,Microsoft OneDrive,Running,35,0,0
+svchost.exe (netsvcs -p),11304,Host Process for Windows Services,Running,7,0,0
+FileSyncHelper.exe,15236,Microsoft OneDriveFileSyncHelper,Running,4,0,0
+servicehost.exe,15452,McAfee WebAdvisor(service),Running,116,0,0
+mcapexe.exe,15500,McAfee Access Protection,Running,8,0,0
+uihost.exe,16100,McAfee WebAdvisor(user level process),Running,63,0,0
+mcshield.exe,16664,McAfee Scanner service,Running,19,0,0
+Teams.exe,16884,Microsoft Teams,Running,19,0,0
+Teams.exe,17000,Microsoft Teams,Running,11,0,0
+Teams.exe,17284,Microsoft Teams,Running,17,0,0
+Teams.exe,15308,Microsoft Teams,Running,8,0,0
+Teams.exe,17484,Microsoft Teams,Running,55,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),18112,Host Process for Windows Services,Running,9,0,0
+svchost.exe (LocalSystemNetworkRestricted -p),17808,Host Process for Windows Services,Running,1,0,0
+AdobeCollabSync.exe,16808,Acrobat Collaboration Synchronizer 23.6,Running,5,0,0
+LocationNotificationWindows.exe,19112,Location Notification,Running,1,0,0
+slack.exe,19280,Slack,Running,7,0,0
+slack.exe,19396,Slack,Running,27,0,0
+slack.exe,19428,Slack,Running,13,0,0
+msteams.exe,5456,Microsoft Teams,Running,37,0,0
+slack.exe,18920,Slack,Running,22,0,0
+RuntimeBroker.exe,3564,Runtime Broker,Running,1,0,0
+msedgewebview2.exe,17968,Microsoft Edge WebView2,Running,47,0,0
+msedgewebview2.exe,19476,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,19656,Microsoft Edge WebView2,Running,17,0,0
+msedgewebview2.exe,19680,Microsoft Edge WebView2,Running,13,0,0
+msedgewebview2.exe,19712,Microsoft Edge WebView2,Running,8,0,0
+msedgewebview2.exe,19836,Microsoft Edge WebView2,Running,28,0,0
+RuntimeBroker.exe,20100,Runtime Broker,Running,2,0,0
+Dropbox.exe,18668,Dropbox,Running,6,0,0
+Dropbox.exe,18744,Dropbox,Running,3,0,0
+CCXProcess.exe,3800,Creative Cloud Content Manager,Running,1,0,0
+conhost.exe,3984,Console Window Host,Running,2,0,0
+svchost.exe (netsvcs -p),20156,Host Process for Windows Services,Running,1,0,0
+csc_ui.exe,20328,Cisco Secure Client User Interface,Running,8,0,0
+Adobe Crash Processor.exe,7856,Adobe Crash Processor,Running,4,0,0
+Creative Cloud UI Helper.exe,20164,Creative Cloud UI Helper,Running,13,0,0
+Creative Cloud UI Helper.exe,11208,Creative Cloud UI Helper,Running,7,0,0
+Creative Cloud UI Helper.exe,11996,Creative Cloud UI Helper,Running,36,0,0
+Dropbox.exe,15240,Dropbox,Running,7,0,0
+Dropbox.exe,21432,Dropbox,Running,7,0,0
+msedgewebview2.exe,1160,Microsoft Edge WebView2,Running,48,0,0
+msedgewebview2.exe,18796,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,20948,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,21796,Microsoft Edge WebView2,Running,19,0,0
+msedgewebview2.exe,21792,Microsoft Edge WebView2,Running,18,0,0
+msedgewebview2.exe,21836,Microsoft Edge WebView2,Running,15,0,0
+msedgewebview2.exe,21848,Microsoft Edge WebView2,Running,15,0,0
+msedgewebview2.exe,21860,Microsoft Edge WebView2,Running,8,0,0
+msedgewebview2.exe,21872,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,21988,Microsoft Edge WebView2,Running,21,0,0
+msedgewebview2.exe,22072,Microsoft Edge WebView2,Running,20,0,0
+Dropbox.exe,22972,Dropbox,Running,15,0,0
+ModuleCoreService.exe,23132,McAfee Module Core Service,Running,27,0,0
+conhost.exe,23152,Console Window Host,Running,2,0,0
+RuntimeBroker.exe,22912,Runtime Broker,Running,1,0,0
+Dropbox.exe,24528,Dropbox,Running,14,0,0
+CCLibrary.exe,4084,Creative Cloud Libraries Synchronizer,Running,1,0,0
+conhost.exe,23812,Console Window Host,Running,2,0,0
+McUICnt.exe,20288,McAfee,Running,23,0,0
+svchost.exe (UnistackSvcGroup),7896,Host Process for Windows Services,Running,4,0,0
+DDVRulesProcessor.exe,2084,Dell Data Vault Rules Processor,Running,6,0,0
+Dell.D3.WinSvc.exe,24384,Dell.D3.WinSvc,Running,20,0,0
+ServiceShell.exe,10252,ServiceShell,Running,35,0,0
+svchost.exe (smphost),22876,Host Process for Windows Services,Running,6,0,0
+svchost.exe (NetworkService -p),23836,,Running,12,0,0
+FusionService.exe,12660,FusionCore,Running,70,0,0
+ai.exe,11560,Artificial Intelligence (AI) Host for the Microsoft Windows Operating System and Platform x64.,Running,17,0,0
+msedgewebview2.exe,13916,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,18332,Microsoft Edge WebView2,Running,22,0,0
+msedgewebview2.exe,18652,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,9428,Microsoft Edge WebView2,Running,23,0,0
+svchost.exe (LocalServiceNetworkRestricted -p),11960,,Running,9,0,0
+chrome.exe,9596,Google Chrome,Running,7,0,0
+chrome.exe,5448,Google Chrome,Running,17,0,0
+chrome.exe,4436,Google Chrome,Running,11,0,0
+chrome.exe,14900,Google Chrome,Running,23,0,0
+RuntimeBroker.exe,14600,Runtime Broker,Running,3,0,0
+msedgewebview2.exe,3268,Microsoft Edge WebView2,Running,41,0,0
+chrome.exe,20320,Google Chrome,Running,11,0,0
+msedgewebview2.exe,21288,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,2868,Microsoft Edge WebView2,Running,20,0,0
+msedgewebview2.exe,9096,Microsoft Edge WebView2,Running,12,0,0
+msedgewebview2.exe,4428,Microsoft Edge WebView2,Running,7,0,0
+msedgewebview2.exe,6068,Microsoft Edge WebView2,Running,22,0,0
+ApplicationFrameHost.exe,21464,Application Frame Host,Running,6,0,0
+svchost.exe (LocalService -p),3500,Host Process for Windows Services,Running,1,0,0
+svchost.exe (DevicesFlow),14964,Host Process for Windows Services,Running,2,0,0
+UserOOBEBroker.exe,6648,User OOBE Broker,Running,1,0,0
+svchost.exe (netsvcs),21920,Host Process for Windows Services,Running,13,0,0
+svchost.exe (netsvcs -p),3580,Host Process for Windows Services,Running,5,0,0
+chrome.exe,8948,Google Chrome,Running,22,0,0
+msedgewebview2.exe,17872,Microsoft Edge WebView2,Running,14,0,0
+svchost.exe (LocalService -p),5440,Host Process for Windows Services,Running,6,0,0
+splwow64.exe,20660,Print driver host for applications,Running,7,0,0
+svchost.exe (PrintWorkflow),13528,Host Process for Windows Services,Running,3,0,0
+chrome.exe,13556,Google Chrome,Running,13,0,0
+SearchProtocolHost.exe,7736,Microsoft Windows Search Protocol Host,Running,6,0,0
+Teams.exe,8120,Microsoft Teams,Terminated,17,0,0

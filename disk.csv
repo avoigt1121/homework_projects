@@ -1,0 +1,15 @@
+Image,PID,Model,Read Byte Per Second,Write Byte Per Second,Delay,Total Byte Per Second
+chrome.exe,5448,x,0,"6,278",0,"6,278"
+chrome.exe,13324,x3,0,"4,940",0,"4,940"
+EXCEL.EXE,12132,x1,"71,807",0,0,"71,807"
+Grammarly.Desktop.exe,19180,h1,"6,729",0,0,"6,729"
+msedgewebview2.exe,20716,f1,"1,365","7,433",0,"8,799"
+msedgewebview2.exe,14716,d5,273,"5,343",0,"5,616"
+msedgewebview2.exe,10576,d2,625,"4,056",0,"4,681"
+msedgewebview2.exe,21848,h5,0,964,0,964
+MsMpEng.exe,6728,f4,"1,457",0,0,"1,457"
+OUTLOOK.EXE,7300,d3,0,"1,471",0,"1,471"
+Registry,172,h3,819,"4,704",0,"5,523"
+System,4,d4,"16,100","216,527",0,"232,627"
+Teams.exe,15560,f3,0,547,0,547
+WUDFHost.exe,1528,d5,"5,205","19,383",0,"24,587"
