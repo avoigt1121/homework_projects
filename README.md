@@ -16,8 +16,6 @@ Various data sources provided by professor in CSV
 
 4. Technologies Used
 
-Example:
-
 **Python**
 
 **JupyterNotebook**
@@ -32,7 +30,7 @@ Example:
 
 **Natural Language ToolKit**
 
-7. How to Run the Project
+5. How to Run the Project
 
 `To run this project, you will need to have Python and the following libraries installed.
 
